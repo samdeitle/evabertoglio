@@ -1,23 +1,21 @@
 html {
-	background-color: pink;
+	background-color: black;
 }
 body *{
-	background-color: pink;
+	background-color: black;
 	text-align: center;
 }
 
 #title {
-	/*font-family: 'Ubuntu', sans-serif;*/
-	color: purple;
+	font-family: 'Ubuntu', sans-serif;
+	color: white;
 	font-size: 72px;
 	margin-top: 30px;
-	font-style: oblique;
 }
 
 #subtitle {
-	/*font-family: 'Ubuntu', sans-serif;*/
-	color: red;
+	font-family: 'Ubuntu', sans-serif;
+	color: white;
 	font-size: 52px;
 	margin-top: -50px;
-	font-style: oblique;
 }
